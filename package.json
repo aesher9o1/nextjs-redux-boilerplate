@@ -1,0 +1,23 @@
+{
+  "name": "next-boilerplate",
+  "version": "0.0.1",
+  "description": "next-js redux boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "next-js",
+    "next",
+    "redux",
+    "react",
+    "jest"
+  ],
+  "author": "aesher9o1",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
